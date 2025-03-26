@@ -46,7 +46,12 @@ ressources.forEach(function(ressource){
 });
 
 function validation(décolage){
-    
+    astronautes.forEach(function(astronaute){
+        if(astronaute.role==='commandant' && )
+
+        
+
+    })
 }
 
 
